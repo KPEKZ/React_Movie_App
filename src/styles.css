@@ -1,4 +1,12 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.btn--like {
+  background: blue;
+  color: white;
+}
+
+.btn {
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid black;
+  font-size: 1em;
 }
